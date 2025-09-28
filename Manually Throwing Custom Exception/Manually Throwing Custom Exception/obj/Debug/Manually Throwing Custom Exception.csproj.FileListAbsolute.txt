@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\Manually Throwing Custom Exception\Manually Throwing Custom Exception\obj\Debug\Manually Throwing Custom Exception.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Manually Throwing Custom Exception\Manually Throwing Custom Exception\obj\Debug\Inventory.frmAddProduct.resources
+C:\Users\Admin\source\repos\Manually Throwing Custom Exception\Manually Throwing Custom Exception\obj\Debug\Manually_Throwing_Custom_Exception.Properties.Resources.resources
+C:\Users\Admin\source\repos\Manually Throwing Custom Exception\Manually Throwing Custom Exception\obj\Debug\Manually Throwing Custom Exception.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Manually Throwing Custom Exception\Manually Throwing Custom Exception\obj\Debug\Manually Throwing Custom Exception.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Manually Throwing Custom Exception\Manually Throwing Custom Exception\bin\Debug\Manually Throwing Custom Exception.exe.config
+C:\Users\Admin\source\repos\Manually Throwing Custom Exception\Manually Throwing Custom Exception\bin\Debug\Manually Throwing Custom Exception.exe
+C:\Users\Admin\source\repos\Manually Throwing Custom Exception\Manually Throwing Custom Exception\bin\Debug\Manually Throwing Custom Exception.pdb
+C:\Users\Admin\source\repos\Manually Throwing Custom Exception\Manually Throwing Custom Exception\obj\Debug\Manually Throwing Custom Exception.exe
+C:\Users\Admin\source\repos\Manually Throwing Custom Exception\Manually Throwing Custom Exception\obj\Debug\Manually Throwing Custom Exception.pdb
