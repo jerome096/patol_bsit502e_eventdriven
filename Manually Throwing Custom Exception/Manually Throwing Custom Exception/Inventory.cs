@@ -6,7 +6,7 @@ namespace Inventory
 {
     public partial class frmAddProduct : Form
     {
-        // variables (Table 2)
+        
         private string _ProductName;
         private string _Category;
         private string _MfgDate;
@@ -15,7 +15,7 @@ namespace Inventory
         private int _Quantity;
         private double _SellPrice;
 
-        // BindingSource for the product list
+        
         private BindingSource showProductList;
 
         public frmAddProduct()
@@ -23,7 +23,7 @@ namespace Inventory
             InitializeComponent();
             showProductList = new BindingSource();
 
-            // wire events here or create them via designer as you prefer
+           
             this.Load += frmAddProduct_Load;
             this.btnAddProduct.Click += btnAddProduct_Click;
         }
@@ -47,7 +47,7 @@ namespace Inventory
             }
         }
 
-        // Methods from Method.txt — exceptions thrown using custom classes (minimal changes)
+        
         public string Product_Name(string name)
         {
             if (!Regex.IsMatch(name, @"^[a-zA-Z]+$"))
@@ -72,7 +72,7 @@ namespace Inventory
             return Convert.ToDouble(price);
         }
 
-        // btnAddProduct click (uses try/catch/finally with multiple custom-catch blocks)
+        
         private void btnAddProduct_Click(object sender, EventArgs e)
         {
             try
@@ -105,7 +105,7 @@ namespace Inventory
             }
             finally
             {
-                // minimal finalization — keep it small per requirement
+                
                 txtProductName.Focus();
             }
         }

@@ -2,7 +2,7 @@
 
 namespace Inventory
 {
-    // Custom exceptions required by the challenge
+
     public class NumberFormatException : Exception
     {
         public NumberFormatException(string varName) : base(varName) { }
